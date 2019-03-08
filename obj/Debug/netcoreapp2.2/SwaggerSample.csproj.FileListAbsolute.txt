@@ -1,0 +1,15 @@
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.csproj.CoreCompileInputs.cache
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.RazorAssemblyInfo.cache
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.RazorAssemblyInfo.cs
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.AssemblyInfoInputs.cache
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.AssemblyInfo.cs
+C:\Users\hxw81\Downloads\SwaggerSample\bin\Debug\netcoreapp2.2\SwaggerSample.deps.json
+C:\Users\hxw81\Downloads\SwaggerSample\bin\Debug\netcoreapp2.2\SwaggerSample.runtimeconfig.json
+C:\Users\hxw81\Downloads\SwaggerSample\bin\Debug\netcoreapp2.2\SwaggerSample.runtimeconfig.dev.json
+C:\Users\hxw81\Downloads\SwaggerSample\bin\Debug\netcoreapp2.2\SwaggerSample.dll
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.RazorTargetAssemblyInfo.cache
+C:\Users\hxw81\Downloads\SwaggerSample\bin\Debug\netcoreapp2.2\SwaggerSample.xml
+C:\Users\hxw81\Downloads\SwaggerSample\bin\Debug\netcoreapp2.2\SwaggerSample.pdb
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.dll
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.pdb
+C:\Users\hxw81\Downloads\SwaggerSample\obj\Debug\netcoreapp2.2\SwaggerSample.csprojAssemblyReference.cache
